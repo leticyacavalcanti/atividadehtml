@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html Lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="wadth=device-width, initial-scale=scale=1.0">
+	<title>Login</title>
+</head>
+<body>
+	<center>
+		<img src="leticyamaquiagem.jpg" style="width: 100px;" alt="">
+		<br>
+		<input style="width: 200px;" type="text" name="" placeholder="Informe seu login">
+		<br><br>
+		<input style="width: 200px;" type="password" name="" id=" " placeholder="Informe sua senha">
+		<br><br>
+		<button><a href="informacoes.html">Entrar<a></button>
+		<br>
+		<a href="">Esqueci a senha</a>
+	</center>
+</body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Informações</title>
+</head>
+<body>
+	<center>
+		<img src="leticyamaquiagem.jpg" style="width: 100px;" alt="">
+		<br>
+		<input style="width: 200px;" type="text" name="" placeholder="Informe seu nome">
+		<br><br>
+		<input style="width: 200px;" type="password" name="" id=" " placeholder="Informe seu CPF">
+		<br><br>
+		<input style="width: 200px;" type="password" name="" id=" " placeholder="Informe seu CEP">
+		<br><br>
+		<button>Salvar</button>
+</body>
+</html>
